@@ -1,0 +1,18 @@
+{
+  "recommendations": [
+    "bradlc.vscode-tailwindcss",
+    "coenraads.bracket-pair-colorizer",
+    "csstools.postcss",
+    "dbaeumer.vscode-eslint",
+    "dotcypress.console-log",
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode",
+    "heybourn.headwind",
+    "logerfo.gzip-status",
+    "naumovs.color-highlight",
+    "oderwat.indent-rainbow",
+    "richie5um2.vscode-sort-json",
+    "vscode-icons-team.vscode-icons",
+    "zhihaocui.ts-interface-sorter"
+  ]
+}
