@@ -1,0 +1,9 @@
+{
+    "editor.formatOnSave": true,
+    "editor.tabSize": 2,
+    "editor.rulers": [100],
+    "prettier.tslintIntegration": true,
+    "prettier.eslintIntegration": true,
+    "prettier.jsxSingleQuote": false,
+    "prettier.singleQuote": true
+  }
